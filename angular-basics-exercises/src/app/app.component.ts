@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-basics-exercises';
+  profile = {name: "name", age: 0};
 }
